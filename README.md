@@ -4,6 +4,22 @@ _Lectures from the UAL week long intensive course on Computational Thinking with
 
 This week-long creative computing intensive course will give participants a wide ranging knowledge of the history of creative computing, a survey of artists working in this area and advice for setting up a studio. This also includes a working knowledge of [p5.js](https://p5js.org/), a Javascript library for creative code on the web.
 
+## Code of Conduct
+
+You can find the UAL Disciplinary Code For Students here: [Disciplinary Code For Students](https://www.arts.ac.uk/study-at-ual/academic-regulations/student-regulations/disciplinary-code-for-students)
+
+You can find our code of conduct, cloned from p5.js, here: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+[Golan Levin](http://flong.com) also offers a useful thought from his children's school:
+
+> When communicating, ask yourself:
+>
+> - T – is it True?
+> - H – is it Helpful?
+> - I – is it Inspiring?
+> - N – is it Necessary?
+> - K – is it Kind?
+
 **What will the workshop involve?**
 
 Our goal is for participants to be able to be critical of current creative computing practice by not only being able to code, but by having knowledge of different fields that have contributed to creative computing as well as current practitioners and studios.
